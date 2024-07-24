@@ -29,7 +29,9 @@ Finance recommended that all personnel costs be calculated at $50.00 per hour.
 Innovation has a standard contract with Happy Catering. The established per person price lists are as follows:
 
 Breakfast: $8.00
+
 Lunch: $12.00
+
 Dinner: $15.00
 
 Corporate conference room can be used for the orientation. Reservations must be made 15 days prior to required use date. Cost per hour is $500 absorbed by the company. No charge to project. The total time requirement will be 10 hours. Day one will require approximately 8.5 hours and Day two will require about 1.5 hours to distribute equipment and close out the venue. Reservations are accomplished online.
@@ -41,7 +43,9 @@ Information Technology, to provide all conference room support including audio a
 Finance, to submit all required project funding one month prior to the event for disbursement. Point of contact is Ursula Miller. Keep her informed when it impacts finance. Ursula will be needed for two hours on the project. Ursula stated that all personnel costs will be considered as direct costs. She requested a total cost for all personnel allocated as follows:
 
 60% of all costs allocated at end of planning
+
 20% of all costs allocated at end of the orientation
+
 20 % of all costs allocated at end of project closure
 
 Marketing, to provide all required manuals, brochures, and gift packs for the event. The point of contact is Priya Sanders. Priya does not need to see all project communications. Total marketing costs for each new hire attending are estimated to be $50.00 per new hire. Total project time requirement for Priya will be 25 hours.
